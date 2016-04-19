@@ -6,6 +6,7 @@ general:
     artifacts:
         - /home/ubuntu/Unit_test/app/build/outputs/apk/
 
+
     #build _dir: app/src/androidTest/java/com.example.jkapi.testprojecttake2/tests
 machine:
     environment:
